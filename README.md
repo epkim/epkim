@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- credly 뱃지 연동 -->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
