@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- credly 뱃지 연동 -->
   <!--START_SECTION:badges-->
-  <a href="https://www.credly.com/badges/7698c6b8-3a7e-41a3-83d7-3b697d20086d" title="AWS Q Developer Camp Graduate: Hands-on Track"><img src="https://images.credly.com/size/80x80/images/843cf4e9-9d2b-48ee-8341-803796a37623/blob" alt="AWS Q Developer Camp Graduate: Hands-on Track" width="80" height="80"></a>
-  <!--END_SECTION:badges-->
+<a href="https://www.credly.com/badges/7698c6b8-3a7e-41a3-83d7-3b697d20086d" title="AWS Q Developer Camp Graduate: Hands-on Track"><img src="https://images.credly.com/size/80x80/images/843cf4e9-9d2b-48ee-8341-803796a37623/blob" alt="AWS Q Developer Camp Graduate: Hands-on Track" width="80" height="80"></a>
+<!--END_SECTION:badges-->
 </p>
 
 ---
