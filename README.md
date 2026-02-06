@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub 통계
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epkim&show_icons=true&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=epkim&show_icons=true&theme=tokyonight" /> -->
+  <img src="https://gh-stats.work/API?username=epkim&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
